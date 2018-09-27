@@ -1,0 +1,11 @@
+# Display escape characters
+print("\n Display a new line.")
+print("\t Display a tab space.")
+print("\t \t \\ Display a backslash.")
+print("\"Display a double quote\"")
+print("'Display a single quote'")
+print("# display a hashtag")
+print("\n")
+print("\n")
+print("\n")
+print("\t \t \t \t \t \"Great Scott!\"")
