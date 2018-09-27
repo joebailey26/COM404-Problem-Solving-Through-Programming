@@ -1,0 +1,12 @@
+# Read user data
+print("We are going to work out your BMI")
+print("Please enter your name...")
+name = input()
+print("Please enter your age...")
+age = int(input())
+print("Please enter your height in meters...")
+height = float(input())
+print("Please enter your weight in kilograms...")
+weight = float(input())
+bmi = weight / (height * height)
+print(name, "your BMI is", bmi)
