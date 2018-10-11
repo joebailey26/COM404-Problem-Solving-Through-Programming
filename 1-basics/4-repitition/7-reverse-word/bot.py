@@ -9,6 +9,4 @@ print("\n")
 
 print("Please enter a word")
 userWord = str(input())
-
-for position in range(0, 1, 1):
-	print(userWord[::-1])
+print(userWord[::-1])
